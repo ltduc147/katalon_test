@@ -40,5 +40,5 @@
       <masked>false</masked>
       <name>gender</name>
    </variable>
-   <priority>CRITICAL</priority>
+   <priority>HIGH</priority>
 </TestCaseEntity>
