@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>test</description>
    <name>Create a new user</name>
    <tag></tag>
    <comment></comment>
