@@ -46,6 +46,7 @@
       <properties>
          <entry>
             <key>featureArea</key>
+            <value>&lt;h1&gt;vcstest&lt;/h1&gt;</value>
          </entry>
          <entry>
             <key>testType</key>
