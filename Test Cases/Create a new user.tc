@@ -41,4 +41,17 @@
       <name>gender</name>
    </variable>
    <priority>HIGH</priority>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>featureArea</key>
+         </entry>
+         <entry>
+            <key>testType</key>
+            <value>&lt;h1&gt;vcstest&lt;/h1&gt;</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
 </TestCaseEntity>
